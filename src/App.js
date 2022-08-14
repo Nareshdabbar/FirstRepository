@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -7,6 +7,7 @@ function App() {
     
     <h1>hello everyone </h1>
     <h2>hi rambabu</h2>
+    <h2>hi</h2>
     </div>
   );
 }
